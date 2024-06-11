@@ -1,6 +1,5 @@
-import React from "react";
-import Link from "next/link";
 import { Button } from "@radix-ui/themes";
+import Link from "next/link";
 
 const IssueActions = () => {
   return (
